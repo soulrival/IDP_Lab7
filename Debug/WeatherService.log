@@ -1,2 +1,5 @@
 ﻿  WeatherService.cpp
-  WeatherService.vcxproj -> C:\Users\user\source\repos\WeatherService\Debug\WeatherService.exe
+  XmlService.cpp
+  Создание кода...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\user\source\repos\WeatherService\Debug\WeatherService.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
